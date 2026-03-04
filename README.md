@@ -96,5 +96,5 @@ Provided operational insights to improve efficiency
 Enabled data-driven strategic decisions
 
 6.Screenshots/Demos
-Show what the dasboard looks like.- [Alt text](https://github.com/singhalok1/Ola-Dashboard/blob/main/ola.png)
-Example: Dashboard Preview[Alt text](https://github.com/singhalok1/Ola-Dashboard/blob/main/ola.png)
+Show what the dasboard looks like.- ![Alt text](https://github.com/singhalok1/Ola-Dashboard/blob/main/ola.png)
+Example: ![Dashboard Preview](https://github.com/singhalok1/Ola-Dashboard/blob/main/ola.png)
